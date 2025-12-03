@@ -1,8 +1,8 @@
-# 📊 Audience Analytics Dashboard
+#  Audience Analytics Dashboard
 
-Dashboard interactif d'analyse d'audiences multi-plateformes créé par **Brawn Dunel** pour IT'S TIME.
+Dashboard interactif d'analyse d'audiences multi-plateformes créé par **Brawn Dunel** pour ma candidature chez IT'S TIME.
 
-## 🚀 Installation
+##  Installation
 
 ```bash
 # Installation des dépendances
@@ -14,7 +14,7 @@ npm run dev
 # Ouvrir http://localhost:3000
 ```
 
-## 🎯 Déploiement sur Vercel
+##  Déploiement sur Vercel
 
 1. Créer un repo GitHub et pousser le code
 2. Aller sur vercel.com et importer le repo
@@ -24,4 +24,4 @@ npm run dev
 
 **Brawn Dunel**  
 Master 2 Development, Big Data & AI - IPSSI  
-brawn.dunel@example.com
+tebohbrowndunel@gmail.com
