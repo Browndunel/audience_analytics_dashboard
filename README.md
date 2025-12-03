@@ -20,7 +20,7 @@ npm run dev
 2. Aller sur vercel.com et importer le repo
 3. Déployer (tout est auto-détecté !)
 
-## 📧 Contact
+##  Contact
 
 **Brawn Dunel**  
 Master 2 Development, Big Data & AI - IPSSI  
