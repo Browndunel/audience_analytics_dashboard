@@ -13,13 +13,6 @@ npm run dev
 
 # Ouvrir http://localhost:3000
 ```
-
-##  Déploiement sur Vercel
-
-1. Créer un repo GitHub et pousser le code
-2. Aller sur vercel.com et importer le repo
-3. Déployer (tout est auto-détecté !)
-
 ##  Contact
 
 **Brawn Dunel**  
